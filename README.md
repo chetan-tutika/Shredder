@@ -1,6 +1,4 @@
 Name: Chetan Tutika<br/>
-Eniac ID: tchetan<br/>
-Github user name: chetan-tutika
 
 List of surce file:
 1) Makefile
